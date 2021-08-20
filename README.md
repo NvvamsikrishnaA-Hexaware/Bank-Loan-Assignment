@@ -1,5 +1,4 @@
-#### Users APIs
-##### Signup
+#### Customer APIs
 ###### Signup - localhost:8000/user/signup
 ###### Login - localhost:8000/user/login
 ###### Applying Loan - localhost:8000/loan
